@@ -1,0 +1,5 @@
+# global variable
+.env
+
+# virtual environment
+.env-pkg
